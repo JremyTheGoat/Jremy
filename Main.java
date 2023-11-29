@@ -3,7 +3,7 @@ class Main {
   public static void main(String[] args) {
     int testScore = 0;
     String grade;
-    System.out.println("Enter your grade:");
+    System.out.println("Jeremy is NOT the goat");
     Scanner input = new Scanner( System.in );
     testScore = input.nextInt();
     if ( testScore >= 90 ){
@@ -20,3 +20,4 @@ class Main {
     System.out.println("Grade=" +grade);
   }
 }
+//jeremy is a dum dum poopy nose so idiot i swaer not even OG sigma rizz
